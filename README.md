@@ -1,10 +1,10 @@
-# 🧠 LearnMate
+# 🧠 SmartStudy
 
 <div align="center">
 
 </div>
 
-**LearnMate** is an AI-powered interactive learning platform that helps users summarize documents, generate quizzes, create flashcards, and track their learning progress.
+**SmartStudy** is an AI-powered interactive learning platform that helps users summarize documents, generate quizzes, create flashcards, and track their learning progress.
 Built with React.js, Flask, and OpenAI GPT-4, it combines intelligent content processing with a clean, responsive UI.
 
 ## 🚀 Features
