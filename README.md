@@ -57,7 +57,7 @@ python app.py
 ## 📱 Screenshots
 
 <div align="center">
-<i>Coming Soon: Interactive demo showcasing LearnMate's capabilities</i>
+<i>Coming Soon: Interactive demo showcasing SmartStudy's capabilities</i>
 </div>
 
 ## 📌 Future Enhancements
