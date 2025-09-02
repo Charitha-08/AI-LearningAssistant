@@ -9,12 +9,12 @@ Built with React.js, Flask, and OpenAI GPT-4, it combines intelligent content pr
 
 ## 🚀 Features
 
-🔹 **AI-Powered Summaries** → Generate concise, personalized study notes from uploaded documents.
-🔹 **Smart Quiz Generator** → Automatically create quizzes to test your knowledge.
-🔹 **Flashcards & Study Aids** → Build and organize flashcards for efficient revision.
-🔹 **Learning Progress Dashboard** → Track performance using Chart.js visualizations.
-🔹 **Secure Authentication** → User-specific recommendations and real-time session storage with Firebase.
-🔹 **Multi-Format Support** → Handles PDFs, DOCX, and text-based content seamlessly.
+- **AI-Powered Summaries** → Generate concise, personalized study notes from uploaded documents.  
+- **Smart Quiz Generator** → Automatically create quizzes to test your knowledge.  
+- **Flashcards & Study Aids** → Build and organize flashcards for efficient revision.  
+- **Learning Progress Dashboard** → Track performance using Chart.js visualizations.  
+- **Secure Authentication** → User-specific recommendations and real-time session storage with Firebase.  
+- **Multi-Format Support** → Handles PDFs, DOCX, and text-based content seamlessly.
 
 ## 💡 Use Cases
 
@@ -29,11 +29,11 @@ Built with React.js, Flask, and OpenAI GPT-4, it combines intelligent content pr
 ## 🛠️ Tech Stack
 
 ```
-**Frontend** → React.js, Chart.js, Bootstrap
-**Backend** → Flask, Python
-**AI Models** → OpenAI GPT-4 APIs
-**Database** → Firebase (Authentication & Storage)
-**Version Control** → Git & GitHub
+Frontend → React.js, Chart.js, Bootstrap
+Backend → Flask, Python
+AI Models → OpenAI GPT-4 APIs
+Database → Firebase (Authentication & Storage)
+Version Control → Git & GitHub
 ```
 
 ## 🚀 Getting Started
